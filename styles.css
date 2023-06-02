@@ -1,2 +1,32 @@
-
 /* Your CSS Code here. */
+.holder {
+	display: flex;
+	height: 100px;
+	justify-content: space-around;
+	align-content: space-between;
+/* 	flex-direction: column; */
+	flex-wrap: wrap;	
+}
+
+.item {
+	width:100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
