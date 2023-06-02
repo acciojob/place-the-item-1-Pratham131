@@ -1,8 +1,8 @@
 /* Your CSS Code here. */
 .holder {
 	display: flex;
-	height: 100px;
-	justify-content: space-around;
+	height: 200px;
+	justify-content: space-between;
 	align-content: space-between;
 /* 	flex-direction: column; */
 	flex-wrap: wrap;	
